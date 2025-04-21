@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "ownerName": "Sanjay Sharma",
+        "driverName": "Sanjay Sharma",
+        "name": "Sanjay Sharma",
+        "carName": "Seltos",
+        "status": "Available",
+        "seats": 5
+    },
+    {
+        "id": 2,
+        "ownerName": "Swapnil Chavan",
+        "driverName": "Swapnil Chavan",
+        "name": "Swapnil Chavan",
+        "carName": "vitara",
+        "status": "Available",
+        "seats": 5
+    },
+    {
+        "id": 3,
+        "ownerName": "Manish Patel",
+        "driverName": "Manish Patel",
+        "name": "Manish Patel",
+        "carName": "Scorpio",
+        "status": "Available",
+        "seats": 7
+    },
+    {
+        "ownerName": "Hitesh Sharma",
+        "driverName": "Hitesh Sharma",
+        "name": "Hitesh Sharma",
+        "carName": "Maruti",
+        "status": "Not Available",
+        "seats": "5",
+        "id": 4
+    }
+]
